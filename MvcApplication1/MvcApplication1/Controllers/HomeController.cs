@@ -13,6 +13,8 @@ namespace MvcApplication1.Controllers
 
         public ActionResult Index()
         {
+            int a = 10;
+
             return View();
         }
 
